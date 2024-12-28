@@ -6,7 +6,7 @@
 
 ### **Section 1: Introduction to Manim and Basic Concepts**
 1. **Hello World** - Hello world in Manim ![./media/videos/S1.1_hello_world/1080p60/HelloWorld_ManimCE_v0.18.1.gif](./media/videos/S1.1_hello_world/1080p60/HelloWorld_ManimCE_v0.18.1.gif)
-3. **Basic Shapes and Text** – Introduction to basic geometric objects (circles, squares, text).
+3. **Basic Shapes and Text** – Introduction to basic geometric objects (circles, squares, text). ![./media/videos/S1.2_basic_shapes/1080p60/BasicShapes_ManimCE_v0.18.1.gif](./media/videos/S1.2_basic_shapes/1080p60/BasicShapes_ManimCE_v0.18.1.gif)
 4. **Basic Animation** – Animating a simple shape's position, scale, and rotation.
 5. **Understanding the Scene** – Exploring the `Scene` class, its components, and structure.
 6. **Basic Transitions** – Using `play()` to create smooth transitions between animations.
