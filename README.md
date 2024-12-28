@@ -1,20 +1,20 @@
 # crack-manim
 
-level up on manim animation library with excercises
+## LEVEL UP on Manim Animation Library Fast
 
 ---
 
 ### **Section 1: Introduction to Manim and Basic Concepts**
-1. **Hello World** - Hello world in Manim
-2. **Basic Shapes and Text** – Introduction to basic geometric objects (circles, squares, text).
-3. **Basic Animation** – Animating a simple shape's position, scale, and rotation.
-4. **Understanding the Scene** – Exploring the `Scene` class, its components, and structure.
-5. **Basic Transitions** – Using `play()` to create smooth transitions between animations.
-6. **Updaters and Continuous Animations** – Introduction to updaters and continuous object motion.
-7. **Camera Movements** – Basic camera movements: panning, zooming.
-8. **Simultaneous Animations** – Creating simultaneous animations with multiple objects.
-9. **Animating Multiple Objects** – Managing multiple objects and synchronizing animations.
-10. **Customizing Text Animations** – Animating text objects with effects like typing and fading.
+1. **Hello World** - Hello world in Manim ![./media/videos/S1.1_hello_world/1080p60/HelloWorld_ManimCE_v0.18.1.gif](./media/videos/S1.1_hello_world/1080p60/HelloWorld_ManimCE_v0.18.1.gif)
+3. **Basic Shapes and Text** – Introduction to basic geometric objects (circles, squares, text).
+4. **Basic Animation** – Animating a simple shape's position, scale, and rotation.
+5. **Understanding the Scene** – Exploring the `Scene` class, its components, and structure.
+6. **Basic Transitions** – Using `play()` to create smooth transitions between animations.
+7. **Updaters and Continuous Animations** – Introduction to updaters and continuous object motion.
+8. **Camera Movements** – Basic camera movements: panning, zooming.
+9. **Simultaneous Animations** – Creating simultaneous animations with multiple objects.
+10. **Animating Multiple Objects** – Managing multiple objects and synchronizing animations.
+11. **Customizing Text Animations** – Animating text objects with effects like typing and fading.
 
 ---
 
