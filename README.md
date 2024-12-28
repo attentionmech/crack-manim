@@ -1,6 +1,6 @@
 # crack-manim
 
-level up on manim animation library with excercises
+## LEVEL UP on Manim Animation Library Fast
 
 ---
 
