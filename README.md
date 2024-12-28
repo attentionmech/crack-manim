@@ -5,7 +5,7 @@ level up on manim animation library with excercises
 ---
 
 ### **Section 1: Introduction to Manim and Basic Concepts**
-1. **Introduction to ManimGL** – Install ManimGL, set up environment, and run first scene.
+1. **Hello World** - Hello world in Manim
 2. **Basic Shapes and Text** – Introduction to basic geometric objects (circles, squares, text).
 3. **Basic Animation** – Animating a simple shape's position, scale, and rotation.
 4. **Understanding the Scene** – Exploring the `Scene` class, its components, and structure.
