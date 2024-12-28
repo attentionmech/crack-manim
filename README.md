@@ -1,0 +1,2 @@
+# crack-manim
+excercises
