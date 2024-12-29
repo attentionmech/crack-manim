@@ -16,7 +16,7 @@
 
 5. **Basic Transitions** – [Using `play()` to create smooth transitions between animations](./tasks/S1.5_basic_transitions.py) <br><img src="./media/videos/S1.5_basic_transitions/1080p60/BasicTransitions_ManimCE_v0.18.1.gif" width="600" height="400"/>
 
-6. **Updaters and Continuous Animations** – [Introduction to updaters and continuous object motion](./tasks/S1.6_updaters_continuous_animations.py) <br><img src="./media/videos/S1.6_updaters_continuous_animations/1080p60/UpdatersContinuousAnimations_ManimCE_v0.18.1.gif" width="600" height="400"/>
+6. **Updaters and Continuous Animations** – [Introduction to updaters and continuous object motion](./tasks/S1.6_updaters_continuous_animations.py) <br><img src="./media/videos/S1.6_updaters_continuous_animations/1080p60/UpdatersAndContinuousAnimations_ManimCE_v0.18.1.gif" width="600" height="400"/>
 
 7. **Camera Movements** – [Basic camera movements: panning, zooming](./tasks/S1.7_camera_movements.py) <br><img src="./media/videos/S1.7_camera_movements/1080p60/CameraMovements_ManimCE_v0.18.1.gif" width="600" height="400"/>
 
