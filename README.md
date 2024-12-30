@@ -50,6 +50,9 @@ This plan and the examples both are done with help of gpt4o on vscode copilot. E
 
 10. **Grouping Objects** – [Using `VGroup` and managing multiple objects as a group](./tasks/S2.10_grouping_objects.py) <br><img src="./media/videos/S2.10_grouping_objects/1080p60/GroupingObjects_ManimCE_v0.18.1.gif" width="600" height="400"/>
 
+11. **Camera following array** – [Camera following an array of numbers](./tasks/S2.11_camera_follow_array.py) <br><img src="./media/videos/S2.11_camera_follow_array/1080p60/CameraFollowArray_ManimCE_v0.18.1.gif" width="600" height="400"/>
+
+
 ---
 
 ### **Section 3: Physics Simulations Basics**
