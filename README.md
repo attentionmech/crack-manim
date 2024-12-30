@@ -42,7 +42,7 @@
 
 6. **Animating Multiple Layers** – [Using multiple layers and managing different objects in the scene](./tasks/S2.6_animating_multiple_layers.py) <br><img src="./media/videos/S2.6_animating_multiple_layers/1080p60/AnimatingMultipleLayers_ManimCE_v0.18.1.gif" width="600" height="400"/>
 
-7. **Creating Complex Transitions** – [Combining multiple animations and transitions](./tasks/S2.7_creating_complex_transitions.py) <br><img src="./media/videos/S2.7_creating_complex_transitions/1080p60/CreatingComplexTransitions_ManimCE_v0.18.1.gif" width="600" height="400"/>
+7. **Creating Complex Transitions** – [Combining multiple animations and transitions](./tasks/S2.7_creating_complex_transitions.py) <br><img src="./media/videos/S2.7_creating_complex_transitions/1080p60/ComplexTransitions_ManimCE_v0.18.1.gif" width="600" height="400"/>
 
 8. **Animating with Time** – [Creating time-based animations using `ValueTracker`](./tasks/S2.8_animating_with_time.py) <br><img src="./media/videos/S2.8_animating_with_time/1080p60/AnimatingWithTime_ManimCE_v0.18.1.gif" width="600" height="400"/>
 
