@@ -75,7 +75,7 @@ This plan and the examples both are done with help of gpt4o on vscode copilot. E
 
 9. **Spring Oscillation** – [Animating a spring's extension and compression](./tasks/S3.9_spring_oscillation.py) <br><img src="./media/videos/S3.9_spring_oscillation/1080p60/SpringOscillation_ManimCE_v0.18.1.gif" width="600" height="400"/>
 
-10. **Visually Simulating Forces** – [Showing force vectors acting on objects](./tasks/S3.10_visually_simulating_forces.py) <br><img src="./media/videos/S3.10_visually_simulating_forces/1080p60/VisuallySimulatingForces_ManimCE_v0.18.1.gif" width="600" height="400"/>
+10. **Visually Simulating Forces** – [Showing force vectors acting on objects](./tasks/S3.10_visually_simulating_forces.py) <br><img src="./media/videos/S3.10_visually_simulating_forces/1080p60/ForceVectors_ManimCE_v0.18.1.gif" width="600" height="400"/>
 
 ---
 
