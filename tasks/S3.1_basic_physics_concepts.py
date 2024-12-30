@@ -53,8 +53,21 @@ class BasicPhysicsConcepts(Scene):
         # Define updater functions for acceleration
         a1 = 1  # units per second^2
         a2 = 5  # units per second^2
-        ball3.add_updater(lambda b, dt: b.shift(RIGHT* a1 * dt * 0.5))
-        ball4.add_updater(lambda b, dt: b.shift(RIGHT * a2 * dt * 0.5))
+        
+        velocity1 = [0]  # Use a mutable container to allow updates within the lambda
+        velocity2 = [0]
+
+        # Add updaters for ball3 and ball4
+        ball3.add_updater(lambda b, dt: (
+            velocity1.__setitem__(0, velocity1[0] + a1 * dt),  # Update velocity1
+            b.shift(RIGHT * velocity1[0] * dt)                # Update position
+        )[1])  # Return the second item to avoid issues in the lambda
+
+        ball4.add_updater(lambda b, dt: (
+            velocity2.__setitem__(0, velocity2[0] + a2 * dt),  # Update velocity2
+            b.shift(RIGHT * velocity2[0] * dt)                # Update position
+        )[1])  # Return the second item to avoid issues in the lambda
+
         
         self.wait(4)  # wait for 4 seconds to simulate the movement
         
