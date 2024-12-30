@@ -30,7 +30,7 @@
 
 ### **Section 2: Intermediate Transformations and Animation Techniques**
 
-1. **Transformations and Morphing** – [Using `transform()` for shape morphing](./tasks/S2.1_transformations_morphing.py) <br><img src="./media/videos/S2.1_transformations_morphing/1080p60/TransformationsMorphing_ManimCE_v0.18.1.gif" width="600" height="400"/>
+1. **Transformations and Morphing** – [Using `transform()` for shape morphing](./tasks/S2.1_transformations_morphing.py) <br><img src="./media/videos/S2.1_transformations_morphing/1080p60/TransformationsAndMorphing_ManimCE_v0.18.1.gif" width="600" height="400"/>
 
 2. **Complex Path Animations** – [Moving objects along paths: straight lines and curves](./tasks/S2.2_complex_path_animations.py) <br><img src="./media/videos/S2.2_complex_path_animations/1080p60/ComplexPathAnimations_ManimCE_v0.18.1.gif" width="600" height="400"/>
 
