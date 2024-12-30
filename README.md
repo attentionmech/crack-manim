@@ -34,7 +34,7 @@
 
 2. **Complex Path Animations** – [Moving objects along paths: straight lines and curves](./tasks/S2.2_complex_path_animations.py) <br><img src="./media/videos/S2.2_complex_path_animations/1080p60/ComplexPathAnimations_ManimCE_v0.18.1.gif" width="600" height="400"/>
 
-3. **Color Transitions** – [Animating color changes on objects](./tasks/S2.3_color_transitions.py) <br><img src="./media/videos/S2.3_color_transitions/1080p60/ColorTransitions_ManimCE_v0.18.1.gif" width="600" height="400"/>
+3. **Color Transitions** – [Animating color changes on objects](./tasks/S2.3_color_transitions.py) <br><img src="./media/videos/S2.3_color_transitions/1080p60/ColorTransition_ManimCE_v0.18.1.gif" width="600" height="400"/>
 
 4. **Easing Functions** – [Applying easing functions for smoother animations](./tasks/S2.4_easing_functions.py) <br><img src="./media/videos/S2.4_easing_functions/1080p60/EasingFunctions_ManimCE_v0.18.1.gif" width="600" height="400"/>
 
