@@ -2,6 +2,8 @@
 
 ## LEVEL UP on Manim Animation Library Fast
 
+This plan and the examples both are done with help of gpt4o on vscode copilot. Each example introduces the small bit of the Manim library.
+
 ---
 
 ### **Section 1: Introduction to Manim and Basic Concepts**
