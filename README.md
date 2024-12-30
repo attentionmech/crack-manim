@@ -2,6 +2,8 @@
 
 ## LEVEL UP on Manim Animation Library Fast
 
+Credits: Copilot+gpt4o
+
 ---
 
 ### **Section 1: Introduction to Manim and Basic Concepts**
